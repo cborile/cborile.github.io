@@ -3,8 +3,8 @@
     "name": "Claudio Borile",
     "label": "Research Scientist",
     "image": "",
-    // "email": "borileclaudio@gmail.com",
-    // "phone": "+393333873345",
+    "email": "borileclaudio@gmail.com",
+    "phone": "+393333873345",
     "url": "https://cborile.github.io/",
     "summary": "AI and quantitative statistical methods for real-world challenges",
     "location": {
@@ -12,12 +12,12 @@
       "countryCode": "IT",
       "region": "Italy"
     },
-    // "profiles": [
-    //   {
-    //     "network": "Twitter",
-    //     "username": "AlbertEinstein",
-    //     "url": "https://twitter.com/AlbertEinstein"
-    //   }
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
     ]
   },
   "work": [
