@@ -6,7 +6,7 @@
     "email": "borileclaudio@gmail.com",
     "phone": "+393333873345",
     "url": "https://cborile.github.io/",
-    "summary": "AI and quantitative statistical methods for real-world challenges",
+    "summary": "AI and quantitative statistical methods for real-world complex challenges",
     "location": {
       "city": "Torino",
       "countryCode": "IT",
@@ -19,5 +19,125 @@
         "url": "https://twitter.com/AlbertEinstein"
       }
     ]
-  }
+  },
+  "work": [
+    {
+      "name": "CENTAI Institute, Torino, Italy",
+      "position": "Research Scientist",
+      "url": "https://centai.eu",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "Pure and applied research in responsible artificial intelligence and complex systems",
+      "highlights": [
+        "Graph Representation Learning",
+        "Learning ABMs",
+        "XAI and Mechanistic Interpretability"
+      ]
+    },
+    {
+      "name": "ISI Foundation, Torino, Italy",
+      "position": "Research Scientist",
+      "url": "https://isi.it",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Research on coordinated inauthentic behavior for cybersecurity",
+      "highlights": [
+        "Network Analysis, Coordinated Behavior Discovery, Time-series forecasting",
+        "Graph Representation Learning",
+        "XAI"
+      ]
+    },
+    {
+      "name": "aizoOn Technology Consulting, Torino, Italy",
+      "position": "Senior Data Scientist",
+      "url": "https://www.aizoongroup.com",
+      "startDate": "2017",
+      "endDate": "2021",
+      "summary": "Machine Learning for applied and industrial research",
+      "highlights": [
+        "Cybersecurity",
+        "Smart Mobility",
+        "Precision Medicine",
+        "Network Science",
+        "Data Science",
+        "Production-ready code development and dashboarding"
+      ]
+    },
+    {
+      "name": "ISI & aizoOn Technology Consulting, Torino, Italy",
+      "position": "Research Scientist",
+      "url": "https://www.aizoongroup.com",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "Network science for social networks analysis",
+      "highlights": [
+        "“Progetto Lagrange” scholarship winner for applied research on Big Data.",
+        "Social Networks",
+        "People Analytics",
+        "Social Media Monitoring"
+      ]
+    },
+    {
+      "name": "DISAT, Politecnico di Torino, Italy",
+      "position": "Post-doctoral researcher",
+      "url": "https://www.disat.polito.it/",
+      "startDate": "2013",
+      "endDate": "2015",
+      "summary": "Statistical Physics for Neuromorphic Computing",
+      "highlights": [
+        "Prof. Riccardo Zecchina's group"
+      ]
+    },
+    {
+      "name": "Universidad de Granada, Granada, Spain",
+      "position": "Visiting Researcher",
+      "url": "https://www.ugr.es/universidad/organizacion/entidades/instituto-carlos-i-fisica-teorica-computacional",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "Statistical Physics approaches to the dynamics of spatially extended ecosystems and the role of fragmentation and disorder",
+      "highlights": [
+        "“Ing. Aldo Gini” Foundation scholarship winner.",
+        "Prof. Miguel A. Muñoz's group"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "LIPh Lab - Università degli Studi di Padova",
+      "location": "Padova, Italy",
+      "url": "https://www.liphlab.com/",
+      "area": "Statistical Physics",
+      "studyType": "PhD",
+      "startDate": "2010",
+      "endDate": "2013",
+      "courses": [
+        "Effects of non-linearities and disorder in systems with multiple absorbing states. Aperspective for modeling the dynamics of complex ecosystems",
+        "Supervisor: Prof. Amos Maritan"
+      ]
+    },
+    {
+      "institution": "Università degli Studi di Padova",
+      "location": "Padova, Italy",
+      "url": "https://www.unipd.it",
+      "area": "Theoretical Physics",
+      "studyType": "MSc",
+      "startDate": "2009",
+      "endDate": "2010",
+      "courses": [
+        "Thesis: Statistical Physics Methods In Genetics: Application To Mycobacterium Tuberculosis Complex Data",
+        "Supervisor: Prof. Silvio Franz",
+        "Erasmus Programme scholarship winner, Université Paris-Sud XI",
+        "<em>Summa Cum Laude</em>"
+      ]
+    },
+    {
+      "institution": "Università degli Studi di Padova",
+      "location": "Padova, Italy",
+      "url": "https://www.unipd.it",
+      "area": "Physics",
+      "studyType": "BSc",
+      "startDate": "2007",
+      "endDate": "2009"
+    }
+  ]
 }
